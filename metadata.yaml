@@ -1,0 +1,30 @@
+_repo: A-vol-de-velo-b-De-Paris-a-Vienne_70989
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Perrodil, Édouard de
+    alias: Perrodil, Edouard de
+    birthdate: 1860
+    deathdate: 1931
+    gutenberg_agent_id: '55936'
+    url: http://www.gutenberg.org/2009/agents/55936
+description: ''
+gutenberg_issued: '2023-06-16'
+identifiers:
+  gutenberg: '70989'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k922612t
+pgterms:marc905: 20220816052305perrodil
+pgterms:marc906: '1895'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aFrance :$bFlammarion, $c1895.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'A vol de vélo : $b De Paris à Vienne'
+url: http://www.gutenberg.org/ebooks/70989
